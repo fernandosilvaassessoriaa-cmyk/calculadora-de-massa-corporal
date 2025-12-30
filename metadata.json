@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora de IMC",
+  "description": "Uma aplicação simples e elegante para calcular seu Índice de Massa Corporal (IMC) e entender em qual categoria de peso você se encontra.",
+  "requestFramePermissions": []
+}
